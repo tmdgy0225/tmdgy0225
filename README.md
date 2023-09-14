@@ -1,16 +1,11 @@
-### My name is Senghyo Lee. I'm from korea and have been attending the gachon university.
+#how to make 
+##reciped my seunghyo
+Ingredient-kimchi,pork,onions,tofu,kosher salt,sugar,gochugaru,gochujang,sesmae oil
 
-<!--
-**tmdgy0225/tmdgy0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.Place the kimchi and kimchi brine in a shallow pot. Add pork and onion
+2.Slice 2 green onions diagonally and add them to the pot.
+3.Add salt, sugar, hot pepper flakes, and hot pepper paste. Drizzle sesame oil over top and add the anchovy stock
+4.Cover and cook for 10 minutes over medium high heat.
+5.Open and mix in the seasonings with a spoon. Lay the tofu over top.
+6.Cover and cook another 10 to 15 minutes over medium heat
+7.Chop 1 green onion and put it on the top of the stew. Remove from the heat and serve right away with rice.
