@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Senghyo Lee. I'm from korea and have been attending the gachon university.
 
 <!--
 **tmdgy0225/tmdgy0225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
